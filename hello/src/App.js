@@ -9,8 +9,8 @@ function App() {
   return (
     <div className="App">
       <Counter/>
-    {/* <Message /> */}
-      {/* <Greet name="Devansh" nickname="Aman">
+    <Message /> 
+      <Greet name="Devansh" nickname="Aman">
         <p>This is the childern class and aan is nickname or you can say pet name of Devansh.</p>
       </Greet>
       <Greet name="Ashutosh" nickname="Osho">
@@ -19,7 +19,7 @@ function App() {
       <Greet name="Harsh Anand" nickname="Bholu"/>
       <Welcome name="Devansh" nickname="Aman"/>
       <Welcome  name="Ashutosh" nickname="Osho"/>
-      <Welcome name="Harsh Anand" nuckname="Bholu"/> */}
+      <Welcome name="Harsh Anand" nuckname="Bholu"/>
       
     </div>
   );
